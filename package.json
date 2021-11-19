@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "start": "node try.js --config=config.json --dataFolder=Companies"
+    },
+    "author": "Keshav Pahwa",
+    "dependencies": {
+        "minimist": "^1.2.5",
+        "puppeteer": "^11.0.0"
+    }
+}
